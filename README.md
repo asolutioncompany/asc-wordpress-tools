@@ -1,5 +1,5 @@
 # aS.c WordPress Tools
-A modular, lightweight, general-purpose Free and Open Source WordPress plugin for WordPress developers
+A modular, lightweight, general-purpose WordPress plugin for WordPress developers
 
 ## Pre-Production / Early Development
 

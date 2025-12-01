@@ -1,5 +1,15 @@
-# aS.c WordPress tools
-A modular, light weight, general purpose free and open source WordPress plugin for WordPress developers
+# aS.c WordPress Tools
+A modular, lightweight, general-purpose Free and Open Source WordPress plugin for WordPress developers
+
+## Pre-Production / Early Development
+
+This plugin is not ready for production use and is in early development.
+
+This plugin is based on a private plugin being re-developed for public use as Free and Open Source Software.
+
+The initial commit is just a planned directory structure for autoloading.
+
+## Planned Features
 
 - Common WordPress customizations
 
@@ -9,12 +19,10 @@ A modular, light weight, general purpose free and open source WordPress plugin f
 
 - WordPress security
 
-- Social sharing
-
 - Disable comments
 
-- Critical SEO
+- Social sharing
 
 - Prebuilt customizations for common plugins
 
-- Easily add, remove, activate, and deactivate modules
+- Easily activate and deactivate modules
